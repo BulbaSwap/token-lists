@@ -1,0 +1,19 @@
+{
+  "name": "@bulbaswap/token-lists",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lists"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BulbaSwap/token-lists.git"
+  }
+}
