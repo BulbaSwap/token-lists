@@ -13,7 +13,7 @@
       "address": "0x5300000000000000000000000000000000000011",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/WETH.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x5300000000000000000000000000000000000011/WETH.svg"
     },
     {
       "name": "Tether USD",
@@ -21,7 +21,7 @@
       "address": "0x67330f6bc8dce05816662785a89fb0611f6d149f",
       "chainId": 2810,
       "decimals": 6,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/USDT.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x67330f6bc8dce05816662785a89fb0611f6d149f/USDT.svg"
     },
     {
       "name": "USD Coin",
@@ -29,7 +29,7 @@
       "address": "0x6dd7917d2558b88d7a4cb75ccbc05b83ee73ec0e",
       "chainId": 2810,
       "decimals": 6,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/USDC.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x6dd7917d2558b88d7a4cb75ccbc05b83ee73ec0e/USDC.svg"
     },
     {
       "name": "Uniswap",
@@ -37,7 +37,7 @@
       "address": "0x340bad9627cb72d1c4cc92c7f53c4995454130ae",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/UNI.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x340bad9627cb72d1c4cc92c7f53c4995454130ae/UNI.svg"
     },
     {
       "name": "Wrapped BTC",
@@ -45,7 +45,7 @@
       "address": "0x9d775125afedc37c46441eadc90140fc2e0d88ac",
       "chainId": 2810,
       "decimals": 8,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/WBTC.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x9d775125afedc37c46441eadc90140fc2e0d88ac/WBTC.svg"
     },
     {
       "name": "Wrapped stETH",
@@ -53,7 +53,7 @@
       "address": "0xcc3551b5b93733e31af0c2c7ae4998908cbfb2a1",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/WETH.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0xcc3551b5b93733e31af0c2c7ae4998908cbfb2a1/WETH.svg"
     },
     {
       "name": "Wrapped eETH",
@@ -61,7 +61,7 @@
       "address": "0xbb474e8854a65f422fcf31b1a72282388af01eb1",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/WETH.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0xbb474e8854a65f422fcf31b1a72282388af01eb1/WETH.svg"
     },
     {
       "name": "CHAINLINK",
@@ -69,7 +69,7 @@
       "address": "0x70edec6a2c96316a0e69a6f3d5dae28213b7986e",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/LINK.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x70edec6a2c96316a0e69a6f3d5dae28213b7986e/LINK.svg"
     },
     {
       "name": "DAI",
@@ -77,7 +77,7 @@
       "address": "0x34e53b46282f70c129e2a6430e63c84e2e8bdcdb",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/DAI.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x34e53b46282f70c129e2a6430e63c84e2e8bdcdb/DAI.svg"
     },
     {
       "name": "Koala",
@@ -85,7 +85,7 @@
       "address": "0xca276dbd968165bd5fa70210075a42a9d99fb357",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/KOALA.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0xca276dbd968165bd5fa70210075a42a9d99fb357/KOALA.svg"
     },
     {
       "name": "Morph wif hat",
@@ -93,7 +93,7 @@
       "address": "0x12a510c2516359e76cc729a04a526a3f05d0097d",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/MFHat.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x12a510c2516359e76cc729a04a526a3f05d0097d/MFHat.svg"
     },
     {
       "name": "Fuel",
@@ -101,7 +101,7 @@
       "address": "0x81a273bd2337fb14fccedb1ad79180e5b4abed0d",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/FUEL.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x81a273bd2337fb14fccedb1ad79180e5b4abed0d/FUEL.svg"
     },
     {
       "name": "Rocket",
@@ -109,7 +109,7 @@
       "address": "0x3fdf55e8da9a02d6446caf580ffc482c8f66f001",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/ROCKET.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0x3fdf55e8da9a02d6446caf580ffc482c8f66f001/ROCKET.svg"
     },
     {
       "name": "Boom",
@@ -117,7 +117,7 @@
       "address": "0xc0dac754baac77a56a9693c2c92ea0822c56e141",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/BOOM.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0xc0dac754baac77a56a9693c2c92ea0822c56e141/BOOM.svg"
     },
     {
       "name": "Leaf",
@@ -125,7 +125,7 @@
       "address": "0xb5137fb9217de22aa2908e4e33e42ca5fcc0ccc4",
       "chainId": 2810,
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/LEAF.svg"
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-holesky/0xb5137fb9217de22aa2908e4e33e42ca5fcc0ccc4/LEAF.svg"
     }
   ]
 }
