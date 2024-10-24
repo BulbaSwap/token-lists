@@ -30,6 +30,14 @@
       "chainId": 2818,
       "decimals": 8,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x803dce4d3f4ae2e17af6c51343040dee320c149d/logo.svg"
+    },
+    {
+      "name": "Kaola",
+      "symbol": "Kaola",
+      "address": "0xbDef3827Ab5b4ae52458F0A2B2348720504F3eF9",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/StrongPandas/token-lists/main/assets/morph-mainnet/0xbDef3827Ab5b4ae52458F0A2B2348720504F3eF9/logo.svg"
     }
   ]
 }
