@@ -38,6 +38,30 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xbdef3827ab5b4ae52458f0a2b2348720504f3ef9/logo.png"
+    },
+    {
+      "name": "Koala",
+      "symbol": "Koala",
+      "address": "0x051bc29e6d13671f6bcbd8be8bb7d889e0d89079",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x051bc29e6d13671f6bcbd8be8bb7d889e0d89079/logo.png"
+    },
+    {
+      "name": "FeetCoin",
+      "symbol": "Feet",
+      "address": "0x95368dbc528c6078c5fe10fb1211fd2a4a40732e",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x95368dbc528c6078c5fe10fb1211fd2a4a40732e/logo.png"
+    },
+    {
+      "name": "AI CECILIA",
+      "symbol": "CECILIA",
+      "address": "0x456619f279e6d54b6dc2bf82cca16931a1945e51",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x456619f279e6d54b6dc2bf82cca16931a1945e51/logo.png"
     }
   ]
 }
