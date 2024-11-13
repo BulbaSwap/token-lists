@@ -62,6 +62,14 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x456619f279e6d54b6dc2bf82cca16931a1945e51/logo.png"
+    },
+    {
+      "name": "Ai Cecilia",
+      "symbol": "Cecilia",
+      "address": "0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389/logo.png"
     }
   ]
 }
