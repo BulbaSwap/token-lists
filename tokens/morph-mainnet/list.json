@@ -70,6 +70,14 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389/logo.png"
+    },
+    {
+      "name": "JUST A CHILL GIRL",
+      "symbol": "CHILLGIRL",
+      "address": "0xd2c135e12b03df1ef0b0001d5258dc109f9fc925",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xd2c135e12b03df1ef0b0001d5258dc109f9fc925/logo.png"
     }
   ]
 }
