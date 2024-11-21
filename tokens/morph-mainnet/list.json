@@ -78,6 +78,14 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xd2c135e12b03df1ef0b0001d5258dc109f9fc925/logo.png"
+    },
+    {
+      "name": "MORPHY",
+      "symbol": "MORPHY",
+      "address": "0xf2c73f180a3ba484ab8f8cf7b322e6e7ca8d4eab",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xf2c73f180a3ba484ab8f8cf7b322e6e7ca8d4eab/logo.png"
     }
   ]
 }
