@@ -86,6 +86,14 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xf2c73f180a3ba484ab8f8cf7b322e6e7ca8d4eab/logo.png"
+    },
+    {
+      "name": "AI IKKYU",
+      "symbol": "IKKYU",
+      "address": "0xfd940682b73ad25d7758636983a6f22074a4995a",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xfd940682b73ad25d7758636983a6f22074a4995a/logo.png"
     }
   ]
 }
