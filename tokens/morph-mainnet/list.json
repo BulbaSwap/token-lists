@@ -102,6 +102,14 @@
       "chainId": 2818,
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0xc2ff77be38d55b5e8c7c6e5935dfe52ab26ea896/logo.png"
+    },
+    {
+      "name": "BitgetToken",
+      "symbol": "BGB",
+      "address": "0x55d1f1879969bdbb9960d269974564c58dbc3238",
+      "chainId": 2818,
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/BulbaSwap/token-lists/main/assets/morph-mainnet/0x55d1f1879969bdbb9960d269974564c58dbc3238/logo.png"
     }
   ]
 }
